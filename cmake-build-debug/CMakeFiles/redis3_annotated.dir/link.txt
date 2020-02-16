@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/redis3_annotated.dir/main.c.o  -o redis3_annotated.exe -Wl,--out-implib,libredis3_annotated.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

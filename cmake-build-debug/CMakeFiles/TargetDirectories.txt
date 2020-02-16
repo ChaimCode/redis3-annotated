@@ -1,3 +1,0 @@
-/cygdrive/e/own/redis3-annotated/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/e/own/redis3-annotated/cmake-build-debug/CMakeFiles/redis3_annotated.dir
-/cygdrive/e/own/redis3-annotated/cmake-build-debug/CMakeFiles/edit_cache.dir
